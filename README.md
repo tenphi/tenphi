@@ -17,10 +17,10 @@ A CSS-in-JS styling system and DSL for React — declarative, state-aware stylin
 | | Project | Description |
 |---|---|---|
 | [![npm](https://img.shields.io/npm/v/@tenphi/tasty?label=%20&color=cb3837)](https://www.npmjs.com/package/@tenphi/tasty) | **[@tenphi/tasty](https://github.com/tenphi/tasty)** | Core styling engine and DSL for React |
-| | **[tasty.style](https://tasty.style)** | Documentation, live playground, and examples |
 | [![npm](https://img.shields.io/npm/v/@tenphi/glaze?label=%20&color=cb3837)](https://www.npmjs.com/package/@tenphi/glaze) | **[@tenphi/glaze](https://github.com/tenphi/glaze)** | OKHSL color theme generator with WCAG contrast solving |
-| | **[tasty-vscode-extension](https://github.com/tenphi/tasty-vscode-extension)** | VS Code syntax highlighting for Tasty DSL |
 | [![npm](https://img.shields.io/npm/v/@tenphi/eslint-plugin-tasty?label=%20&color=cb3837)](https://www.npmjs.com/package/@tenphi/eslint-plugin-tasty) | **[@tenphi/eslint-plugin-tasty](https://github.com/tenphi/tasty-eslint-plugin)** | ESLint plugin for `tasty()` and `tastyStatic()` validation |
+| | **[tasty-vscode-extension](https://github.com/tenphi/tasty-vscode-extension)** | VS Code syntax highlighting for Tasty DSL |
+| | **[tasty.style](https://tasty.style)** | Documentation, live playground, and examples |
 
 ### Other Projects
 
