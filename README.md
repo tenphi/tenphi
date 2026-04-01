@@ -12,7 +12,7 @@ Based in Amsterdam, the Netherlands. Photography and music outside of work.
 
 ### Tasty Ecosystem
 
-A CSS-in-JS styling system and DSL for React — declarative, state-aware styling with design token integration, sub-element styling, and zero-runtime extraction via Babel.
+A CSS-in-JS styling system and DSL for React — declarative, state-aware styling with design token integration, sub-element styling, and optional zero-runtime extraction via Babel.
 
 | | Project | Description |
 |---|---|---|
@@ -57,4 +57,5 @@ A CSS-in-JS styling system and DSL for React — declarative, state-aware stylin
 
 ### GitHub Stats
 
-![Andrey Yamanov's Github Stats](https://github-readme-stats.vercel.app/api?username=tenphi&theme=dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tenphi&theme=github_dark)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenphi&theme=github_dark)
